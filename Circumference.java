@@ -3,7 +3,7 @@ import java.util.*;
 class Circumference{
 	public static void Radius(int r){
 		double circumference = 2 * Math.PI * r;
-		System.out.println("Circumference of a circle with radius " +r+ "=" 		+circumference);
+		System.out.println("Circumference of a circle with radius " +r+ "=" +circumference);
 	}
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
